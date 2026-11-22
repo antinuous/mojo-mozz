@@ -2,6 +2,8 @@
   <img src="logo.png" alt="mozz logo" width="200" />
 </div>
 
+This mirror locks the Mojo build that antinuous/research pins, and a research toolchain bump moves this lock in the same batch.
+
 # mozz
 
 [![CI](https://github.com/ehsanmok/mozz/actions/workflows/ci.yml/badge.svg)](https://github.com/ehsanmok/mozz/actions/workflows/ci.yml)
